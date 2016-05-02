@@ -1,6 +1,12 @@
-@import url(http://fonts.googleapis.com/earlyaccess/cwtexkai.css);
+@import url(http://fonts.googleapis.com/earlyaccess/cwtexyen.css);
+@import url(http://fonts.googleapis.com/earlyaccess/cwtexfangsong.css);
+@import url(http://fonts.googleapis.com/earlyaccess/notosanstc.css);
+@import url(http://fonts.googleapis.com/earlyaccess/cwtexhei.css);
 
-h1{font-size: 100px; font-family: 'cwTeXHei', Verdana;}
-h2{font-family: 'Nunito', Verdana; font-size: 42px;}
-li{font-size: }
-body{font-family: 'cwTeXHei', Verdana;}
+body{font-family: 'cwTeXYen', sans-serif;}
+h1{background-color: black; color: white; font-size: 36px; font-family: 'Noto Sans TC', sans-serif;}
+h2{background-color: gray; color: white; font-family: 'Nunito', Verdana; font-size: 18px;}
+li{color:black;font-size: 12px;font-family: 'cwTeXHei', sans-serif;}
+.h2b{background-color: gray; color: white; font-family: 'cwTeXYen', sans-serif;}
+.lib{background-color: lightgray; color: gray; font-family: 'cwTeXYen', sans-serif;font-size:18px;}
+.backtop{background-color: black; color: white; font-size: 18px; font-family: 'Noto Sans TC', sans-serif; }
