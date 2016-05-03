@@ -1,0 +1,11 @@
+.box{width:30%; padding:10%; line-height:40px; padding-left: 20%; 
+      margin-top:10%; margin-bottom: 20%; margin:auto;
+      text-align:center;
+      border-color:blue; border-width:1px; border-style:dashed; border-width:thin; border-color:white;
+      border-radius: 15px;
+      background-color: aquamarine;
+      background-image:url(images/star.png) ;
+      background-position:top;
+      background-repeat: repeat-x;
+    }
+
