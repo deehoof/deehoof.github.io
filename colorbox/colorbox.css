@@ -1,16 +1,30 @@
-.left{
+.wrap{width:500px;}
+
+.leftbox{
 	background:orange;
 	color:white;
 	width:100px;
 	height:300px;
+	font-size: 36px;
+	float:left;
 	
 }
 
-.right{
+.rightbox{
 	background-color: blue;
-	font-size: 72px;
-	color:white;
-	width:200px;
+    color:white;
+	font-size: 36px;
+	width:100px;
 	height:300px;
+	float:right;
 	
 	}
+
+.con{
+	background-color: gray;
+	color:white;
+	height:300px;
+	margin-left: 140px;
+	margin-right: 140px;
+    
+}

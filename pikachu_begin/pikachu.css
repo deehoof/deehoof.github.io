@@ -1,6 +1,15 @@
-body{font-family: verdana,cursive,monospace, serif ,sans-serif;
-     background-color: #FDE543;
-     }
+
+div.wrap{
+      width:2000px;
+      height:1000px;
+      position:relative;
+      background-color: #FDE543;
+      border-width: 50px;
+      border-style: solid;
+      border-color: #FDE543;    
+      margin-color:#FDE543;
+      font-family: verdana,cursive,monospace, serif ,sans-serif;
+}
 
 div.circle1{
 	      box-sizing:border-box;
