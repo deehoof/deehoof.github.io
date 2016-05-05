@@ -3,13 +3,14 @@
 	color:white;
 	width:100px;
 	height:300px;
-	float:left;
+	
 }
 
 .right{
-	background:aqua;
+	background-color: blue;
+	font-size: 72px;
 	color:white;
 	width:200px;
 	height:300px;
-	float:right;
-}
+	
+	}

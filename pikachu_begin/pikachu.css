@@ -2,7 +2,6 @@ body{font-family: verdana,cursive,monospace, serif ,sans-serif;
      background-color: #FDE543;
      }
 
-
 div.circle1{
 	      box-sizing:border-box;
 
@@ -91,7 +90,7 @@ div.circle5{
             padding-top:5px;
 
             background-color: #864A06;
-            position:absolute;
+            position:fixed;
             top: 580px;
             left:1280px;
 
