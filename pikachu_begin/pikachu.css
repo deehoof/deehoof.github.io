@@ -1,0 +1,121 @@
+body{font-family: verdana,cursive,monospace, serif ,sans-serif;
+     background-color: #FDE543;
+     }
+
+
+div.circle1{
+	      box-sizing:border-box;
+
+	      width:300px;
+	      height:300px; 
+            border-radius:50%;
+            
+            text-align:center;
+            padding-top: 85px;
+
+            background-color: #DE3535;
+            color:#FDE543;
+
+            position:absolute;
+            top: -75px;
+            left:330px;
+            }
+
+div.circle2{
+            box-sizing:border-box;
+	        width:250px;
+	        height:250px; 
+            border-radius:50%;
+            
+            text-align:left;
+            padding-top: 75px;
+            padding-left: 25px;
+
+            background-color: #864A06;
+            color:white;
+
+            position:absolute;
+            top: 270px;
+            left:280px;
+
+}
+div.circle3{
+            box-sizing:border-box;
+	      width:500px;
+	      height:500px; 
+            border-radius:50%;
+            
+            background-color: white;
+            color:#864A06;
+
+            text-align:center;
+            padding-top: 100px;
+            padding-left: 90px;
+            padding-right: 90px;
+            
+            position:absolute;
+            top: 150px;
+            left:500px;
+
+}
+
+div.circle4{
+            box-sizing:border-box;
+	      width:200px;
+	      height:200px; 
+            border-radius:50%;
+            
+            background-color: white;
+
+            position:absolute;
+            top: 80px;
+            left:890px;
+
+            background-image: url(pikachu_begin/pika2.jpg)
+            background-repeat:no-repeat;
+            background-position: center;
+            background-size:65%;
+            padding-left: 40px;
+            padding-top: 30px;
+
+}
+
+div.circle5{
+            box-sizing:border-box;
+	      width:100px;
+	      height:100px; 
+            border-radius:50%;
+            
+            text-align:center;
+            color:white;
+            padding-top:5px;
+
+            background-color: #864A06;
+            position:absolute;
+            top: 580px;
+            left:1280px;
+
+            background-image: url(pikachu_begin/fb.png)
+            background-repeat:no-repeat;
+            background-position: center;
+            background-size:70%;
+
+}
+
+div.circle6{
+            box-sizing:border-box;
+            width:200px;
+            height:200px; 
+            border-radius:50%;
+            
+            text-align:center;
+            padding-top:80px;
+
+            background-color: #DE3535;
+            color:#FDE543;
+
+            position:absolute;
+            top: 680px;
+            left:500px;
+
+            }
